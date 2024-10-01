@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Minecraft_Launcher_Test_0/1.0.0": {
+        "runtime": {
+          "Minecraft_Launcher_Test_0.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Minecraft_Launcher_Test_0/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
