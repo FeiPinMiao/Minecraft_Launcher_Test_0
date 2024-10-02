@@ -8,5 +8,7 @@ class MainProgram
 	{
 		Console.WriteLine("Main:: State: Init   OutMessage: MainInit");
 		AnimationProgram.Init();
+
+		Console.ReadLine();
 	}
 }

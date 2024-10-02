@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Minecraft_Launcher_Test_0\\Minecraft_Launcher_Test_0.csproj",
+      "projectUniqueName": "D:\\MinecraftDevelop\\Minecraft_Launcher_Test_0\\Minecraft_Launcher_Test_0.csproj",
       "projectName": "Minecraft_Launcher_Test_0",
-      "projectPath": "D:\\Minecraft_Launcher_Test_0\\Minecraft_Launcher_Test_0.csproj",
+      "projectPath": "D:\\MinecraftDevelop\\Minecraft_Launcher_Test_0\\Minecraft_Launcher_Test_0.csproj",
       "packagesPath": "C:\\Users\\10365\\.nuget\\packages\\",
-      "outputPath": "D:\\Minecraft_Launcher_Test_0\\obj\\",
+      "outputPath": "D:\\MinecraftDevelop\\Minecraft_Launcher_Test_0\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\10365\\AppData\\Roaming\\NuGet\\NuGet.Config"
